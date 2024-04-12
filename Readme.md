@@ -15,6 +15,20 @@
 
 > [배포 링크](https://fieldpasser.netlify.app/)
 
+<table border>
+  <tbody>
+    <tr>
+      <td align="center" width="400px">
+        <img width="100%" src="./public/demo/seo.webp"  alt="구글 검색엔진 등록 이미지"/>
+      </td>
+      <td align="center" width="400px">
+        <img width="100%" src="./public/demo/og.webp"  alt="오픈그래프 적용 이미지"/>
+      </td>
+     </tr>
+  </tbody>
+</table>
+<br/>
+
 ## 👥 팀원
 
 <table border>
